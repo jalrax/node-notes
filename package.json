@@ -1,0 +1,23 @@
+{
+  "name": "node-notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "node": "^10.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalrax/node-notes.git"
+  },
+  "author": "jalrax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalrax/node-notes/issues"
+  },
+  "homepage": "https://github.com/jalrax/node-notes#readme"
+}
